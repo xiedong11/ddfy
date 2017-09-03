@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item android:id="@+id/wordtable"
+        android:title="单词本"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/clear"
+        android:title="清除记录"
+        app:showAsAction="never"/>
+    <!--设置为always代表显示在toolbar上，设置never代表不显示在toolbar上-->
+    <item android:id="@+id/add"
+        android:title="添加"
+        android:icon="@drawable/abc_ic_menu_paste_mtrl_am_alpha"
+        app:showAsAction="always"/>
+
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">点点翻译</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">点点翻译是一款结合网络的在线翻译工作，支持多国语言在线翻译，智能方便，同时新增单词记忆功能，可以把陌生单词添加到单词本中，方便学习查看</string>
+
+</resources>
